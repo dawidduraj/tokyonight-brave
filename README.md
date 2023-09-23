@@ -2,7 +2,7 @@ Tokyonight for brave browser. I didn't add stuff for incognito cuz brave doesn't
 
 i use night tab for new page 
 
-[![demo](screenshot.png)]
+![demo](screenshot.png)
 
 # Acknowledgments
 - https://github.com/canbeardig/MinimalistFox
