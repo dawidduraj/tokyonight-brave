@@ -1,4 +1,16 @@
-Tokyonight for brave browser. I didn't add stuff for incognito cuz brave doesn't let you customize that.
+
+<a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
+   title="Explanation of WCAG 2 Level AAA conformance">
+  <img height="32" width="88"
+       src="https://www.w3.org/WAI/WCAG22/wcag2.2AAA"
+       alt="Level AAA conformance,
+            W3C WAI Web Content Accessibility Guidelines 2.2">
+</a>
+
+WCAG (AAA) compilant Tokyonight theme for brave browser. 
+
+> [!NOTE]  
+> No customizations for incognito since brave overrides that.
 
 i use night tab for new page 
 
