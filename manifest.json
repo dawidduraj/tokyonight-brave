@@ -4,7 +4,7 @@
   "name": "Tokyonight",
   "theme": {
     "colors": {
-      "toolbar": [26, 27, 38],
+      "toolbar": [36, 40, 59],
       "toolbar_text": [169, 177, 214],
       "tab_text": [169, 177, 214],
       "background_tab": [26, 27, 38],
