@@ -12,7 +12,7 @@ WCAG (AAA) compilant Tokyonight theme for brave browser.
 > [!NOTE]  
 > No customizations for incognito since brave overrides that.
 
-i use night tab for new page 
+~~i use night tab for new page~~ The screenshot here shows the default page. 
 
 ![demo](screenshot.png)
 
